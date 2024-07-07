@@ -44,5 +44,8 @@ This Task Management Application allows users to efficiently manage tasks with f
   * Drag and drop tasks to reorder them as needed.
 ### Screenshots
 **Dashboard**
+![Alt text](https://github.com/alfin-joseph/task_management/blob/main/src/utils/screenshots/Screenshot%20(8).png "Optional Title")
+![Alt text](https://github.com/alfin-joseph/task_management/blob/main/src/utils/screenshots/Screenshot%20(9).png "Optional Title")
 
 **Task Page**
+![Alt text](https://github.com/alfin-joseph/task_management/blob/main/src/utils/screenshots/Screenshot%20(10).png "Optional Title")
