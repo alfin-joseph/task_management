@@ -26,23 +26,23 @@ This Task Management Application allows users to efficiently manage tasks with f
    ```bash
    git clone https://github.com/alfin-joseph/task_management.git
    cd task_management
-2. ** Install dependenices
+2. **Install dependenices**
    ```sh
     npm install
    ```
-3. **Run the Application
+3. **Run the Application**
     ```sh
     npm strat
     ```
-4. ** Open the Application
+4. **Open the Application**
     Open your browser and go to http://localhost:3000
 
 ### Usage 
-1 .** Managing Tasks
+1 .**Managing Tasks**
   * Navigate to the dashboard to view all tasks.
   * Use the task page to add new tasks, update existing tasks, or delete tasks.
   * Drag and drop tasks to reorder them as needed.
 ### Screenshots
-** Dashboard
+**Dashboard**
 
-** Task Page
+**Task Page**
